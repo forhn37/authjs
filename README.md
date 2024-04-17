@@ -1,0 +1,2 @@
+# authjs
+auth.js
